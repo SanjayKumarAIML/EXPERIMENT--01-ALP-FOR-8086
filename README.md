@@ -1,10 +1,12 @@
 # EXPERIMENT--01-ALP-FOR-8086
 ### Name : Sanjay Kumar.S.S
 ### Roll no : 212221240048
-### Date of experiment : 12.09.2022
+### Date of experiment : 
 
-## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
-## Components required: 8086  emulator 
+## Aim: 
+To Write and execute ALP on fundamental arithmetic and logical operations
+## Components required: 
+8086  emulator 
 ## Theory 
 Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as EMU8086, is an emulator of the program 8086 microprocessor.
 It is developed with a built-in 8086 assembler. 
